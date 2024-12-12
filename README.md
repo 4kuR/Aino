@@ -1,19 +1,25 @@
-# Tietoa Aino.AI:sta
+<img src="https://i.ibb.co/mv8bqKy/AinoAI.png" alt="Twitch Panel Image" style="width: 100%; max-width: 100%;">
 
-Aino.AI on apulaistekoäly, joka on suunniteltu erityisesti auttamaan ikääntyneitä henkilöitä hallitsemaan päivittäisiä terveys- ja hyvinvointirutiineja. Tehtävämme on mahdollistaa itsenäisempi ja mukavampi elämä tarjoamalla:
+Aino.AI is an assistant AI specifically designed to help elderly individuals manage their daily health and wellness routines. Our mission is to enable a more independent and comfortable life by providing:
 
-- **Lääkemuistutukset:** Älä koskaan unohda annostasi! Aino.AI lähettää oikea-aikaisia muistutuksia lääkkeiden ottamisesta lääkärin ohjeiden mukaan.
-- **Terveystehtävien muistutukset:** Lempeitä muistutuksia nesteytyksestä, liikunnasta ja lääkäriaikojen noudattamisesta.
-- **Räätälöity hoito:** Helposti mukautettavissa yksilöllisiin terveystarpeisiin ja aikatauluihin.
-- **Yksinkertainen käyttöliittymä:** Suunniteltu yksinkertaiseksi, jotta myös vähemmän teknisesti suuntautuneet käyttäjät voivat käyttää sitä vaivattomasti.
+- **Medication Reminders:** Never miss a dose! Aino.AI sends timely reminders to take medications as prescribed by doctors.
+- **Health Task Alerts:** Gentle nudges for staying hydrated, exercising, and attending medical appointments.
+- **Customizable Care:** Easily tailored to fit individual health needs and schedules.
+- **Simple Interface:** Designed to be straightforward, ensuring ease of use even for those less familiar with technology.
 
-### Miksi Aino.AI?
+### Why Aino.AI?
 
-Uskomme, että teknologian tulee tehdä elämästä helpompaa, ei vaikeampaa. Keskittymällä saavutettavuuteen ja käytännöllisiin tarpeisiin Aino.AI kuroo umpeen kuilun terveydenhoidon ja arjen välillä. Olitpa ikääntynyt henkilö tai omaishoitaja, Aino.AI on täällä auttamassa.
+We believe that technology should make life easier, not harder. By focusing on accessibility and practical needs, Aino.AI bridges the gap between healthcare and daily life. Whether you're an elderly individual or a caregiver, Aino.AI is here to assist you.
 
-### Liity mukaan
+### Join Us
 
-Olemme avoimia yhteistyölle! Olitpa kehittäjä, terveydenhuollon ammattilainen tai omaishoitaja, panoksesi on arvokas. Tehdään yhdessä Aino.AI:sta vieläkin parempi.
+We are open to collaboration! Whether you are a developer, healthcare professional, or caregiver, your input is invaluable. Let’s work together to make Aino.AI even better.
 
-Vieraile repositoriossamme aloittaaksesi, osallistuaksesi tai oppiaksesi lisää kehityssuunnitelmastamme. Yhdessä voimme luoda valoisamman ja terveemmän tulevaisuuden kaikille.
+Visit our repository to get started, contribute, or learn more about our development roadmap. Together, we can create a brighter and healthier future for everyone.
 
+**Made in Finland**
+
+Aino.AI is proudly developed in **Pori, Finland**, combining cutting-edge technology with Finnish expertise and care for well-being.
+
+  
+<img src="https://i.ibb.co/6RycDVc/CR.png" alt="Twitch Panel Image" style="width: 100%; max-width: 100%;">
